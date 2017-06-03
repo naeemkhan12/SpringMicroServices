@@ -1,12 +1,8 @@
-package com.boot.main;
+package com.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-/**
- * Creat
- * ed by naeem on 6/1/17.
- */
 @SpringBootApplication
 public class App{
     public static void main(String[] args){
